@@ -1,6 +1,6 @@
 # BASH SCRIPTS
 
-![](https://i.gifer.com/EgUx.gif)
+![...](gif.gif)
 
 These bash scripts are made for quick setup of tools for new vm evironments. <br>
 
